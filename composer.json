@@ -1,0 +1,13 @@
+{
+    "name": "scaleplan/yandex-directory",
+    "description": "PHP SDK for integration with Yandex Connect service (https://connect.yandex.ru)",
+    "autoload": {
+        "psr-4": {
+            "Scaleplan\\YandexDirectory\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0",
+        "scaleplan/http": "dev-master"
+    }
+}
